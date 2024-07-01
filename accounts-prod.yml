@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hey, welcome to EazyBank accounts related APIs"
+  contactDetails:
+    name: "Chloe Yan - Product Owner"
+    email: "Yiran@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
